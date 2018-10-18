@@ -1,5 +1,5 @@
 
-# This script was written by Michael Heeney and Cal Fritz for Scripting for Network Administrators for Baker College of Jackson.
+# This script was written by Michael Heeney, Cal Fritz, Zane Babcock, and Heidi Johnson for Scripting for Network Administrators for Baker College of Jackson.
 # First build date: 9/14/18
 #--------------------------------------------------------------------------------------------------------------------------------
 #Sets background and font color of text
