@@ -1,0 +1,98 @@
+
+
+2011/07/24                                                          STUDENTS BY MAJOR - Happy UNIVERSITY                                            PAGE    1
+
+                                                         HRS RG      CURRICULUM         OPTIONAL  ADDITIONAL  CUM
+ STUDENT # LAST NAME                 FIRST NAME     D/N  ERN HR STS  DEG CON   VER   MINOR MINOR MINOR MINOR  GPA
+
+ 5528-7375 DENTY                     BRYON           N    72  8  4   CER CSC   2006A                         3.43
+ 5528-4165 AWKWARD                   THADDEUS        N    70 12  4   CER CSC   2006A                         2.30
+ 5538-6679 SCHOEPPNER                JACKSON         N    85 12  4   CER CSC   2007A                         2.68
+ 5557-6817 MEDICI                    NENITA          N    72 10  4   CER CSC   2007A                         3.06
+ 5562-3799 SAMEK                     HERTHA          N    78  8  4   CER CSC   2007A                         3.28
+ 5521-4521 LEHIGH                    MARVIS          N    62  8  4   CER CSC   2007A                         3.81
+ 5521-5366 FULSON                    MARCEL          N    44 12  4   CER CSC   2007A                         2.52
+ 5523-4222 BESERRA                   JA              N    40  8  4   CER CSC   2007A                         2.84
+ 5569-8359 SCHNOKE                   FRIDA           N    92 12  4   CER CSC   2007A                         2.52
+ 5524-3172 EGOLF                     BRYON           N    64 12  4   CER CSC   2007A                         2.84
+ 5525-6085 GIBERT                    CAREY           N    78  8  4   CER CSC   2008A                         3.70
+ 5592-9893 WISS                      MARCEL          N    32 12  4   CER CSC   2008A                         3.09
+ 5527-0749 DIVINEY                   ELINORE M.      N    24 12  4   CER MNP   2008A                         3.83
+ 5524-3759 PLOSZAJ                   CLIFF           D    20  6  4   CER MNP   2008A                         2.54
+ 5528-4280 DOORN                     CAREY           N    22 12  4   CER MNP   2008A                         3.56
+ 5528-2980 GRODEN                    CAREY           N    12 12  4   CER MNP   2008A                         3.33
+ 5522-3326 MARTES                    THADDEUS        N    34 12  4   CER MNP   2008A                         2.98
+ 5524-6199 FRANKENBERG               DARIUS R        N    22  8  4   CER MNP   2008A                         3.95
+ 5526-5949 HORNADAY                  ALVARO          D    28  8  4   CER MNP   2008A                         3.16
+ 5525-7981 GILBERTI                  MARVIS          N    48 12  4   CER MNP   2008A                         3.78
+ 5563-1901 ANDREASON                 TWANDA          N    76  8  4   CER MNP   2008A                         3.81
+ 5527-9925 VUGTEVEEN                 NOLAN           N    24 12  4   CER MNP   2008A                         3.23
+ 5525-3449 RUBERTO                   KAI             N    40 12  4   CER MNP   2008A                         2.49
+ 5568-0773 ROBLE                     EDYTH           N    36 16  4   AST WEB   2008A                         3.53
+ 5524-7448 GALEOTTI                  QUINTON         D    64 16  4   AST WEB   2008A                         2.95
+ 5527-9350 PRAYTOR                   BRYON           N    20  4  4   AST WEB   2008A                         4.00
+ 5527-0199 SEPTER                    MARVIS          N    56  8  4   AST WEB   2008A                         3.94
+ 5528-1914 BENGOCHIA                 LORIA           N    12 12  4   AST WEB   2008A                         3.23
+ 5565-7171 REMMELE                   CLIFF           N    68 12  4   AST WEB   2008A                         3.88
+ 5525-6425 PONTARELLI                DESPINA         N    77 12  4   AST WEB   2008A                         2.87
+ 5525-7498 ODWYER                    SHAYLA          N    40  8  4   AST WEB   2008A                         2.84
+ 5528-1427 COURCHESNE                FELIPE          N    20 12  4   AST WEB   2008A                         4.00
+ 5526-2360 FREIRE                    DAMON           N    30  8  4   AST WEB   2008A                         4.00
+ 5529-2395 LONGERBEAM                MERRY           N     8 12  4   AST SYS   2008A                         4.00
+ 5528-8863 KRATZKE                   ALENE           N    40  4  4   AST SYS   2008A                         3.00
+ 5566-2240 LEMLER                    KIRA            N    74  6  4   AST SYS   2008A                         2.78
+ 5522-9817 OSMENT                    GEOFFREY        N    16  0  4   AST SYS   2008A                         1.57
+ 5527-4211 BURN                      KELVIN          D    18  6  4   AST SYS   2008A                         3.20
+ 5523-7788 ROCCHIO                   GEOFFREY        N    36  8  4   AST SYS   2008A                         2.20
+ 5528-8333 STAKER                    VESTA           D    66 12  0   AST SYS   2009A                         4.00
+ 5591-5598 SKORA                     MALCOLM         N     0  8  0   AST SYS   2009A                         2.00
+ 5529-7217 LAWRIE                    GEOFFREY        D     4 12  4   AST SYS   2009A                         1.00
+ 5586-1440 MARKARIAN                 BENNIE          D   194  8  7   AST SYS   2009A                         3.00
+ 5591-5825 CAMPOVERDE JR.            DORRIS          D     0  4  0   AST SYS   2009A                         3.56
+ 5589-8355 LUDEWIG                   MATILDE         N    38 12  7   AST SYS   2009A                         2.77
+ 5591-4594 HUXFORD                   PRESTON         D    10 12  0   AST SYS   2009A                         1.65
+ 5591-6606 HUBNER                    WILLEM          D     0  4  0   AST SYS   2009A                         4.00
+ 5528-4025 FAUBERT                   DAMON           N    28 12  0   BST NET   2009A                         3.60
+ 5524-0345 ESTABROOKS                CESAR           N     0 12  0   BST NET   2009A                         2.02
+ 5589-7822 CAMPTON                   ALTON           D     0 12  0   BST NET   2009A                         3.04
+ 5526-9641 WEIRICK                   ROBERT          D     0 12  0   BST NET   2009A                         4.00
+ 5529-1388 BREUNINGER                LAURETTA        D     0 12  0   BST NET   2009A                         1.34
+ 5528-0478 SEPER                     LARISSA         D     0  8  0   BST NET   2009A                         3.50
+ 5529-1214 KAST                      FELIPE          N    60  4  0   BST NET   2009A                         2.90
+ 5574-2202 HELGERSON                 DELBERT         D    28  8  7   BST NET   2009A                         3.04
+ 5591-3222 WACHOB                    DAMON           N     0 12  0   BST NET   2009A                         0.90
+ 5591-4665 CONNIFF                   VESTA           D     0 12  0   BST NET   2009A                         2.00
+ 5529-9076 VANDUYNE                  WILLIAM         D     0 12  0   BST NET   2009A                         3.00
+ 5529-6885 BENDIXEN                  PILAR           D     0 12  0   BST NET   2009A                         1.09
+ 5591-9770 NOWLEN                    PRESTON         N     0 12  0   BST NET   2009A                         3.00
+
+
+
+
+
+
+
+
+2011/07/24                                                          STUDENTS BY MAJOR - Happy UNIVERSITY                                            PAGE    1
+
+                                                         HRS RG      CURRICULUM         OPTIONAL  ADDITIONAL  CUM
+ UIN       LAST                      FIRST          D/N  ERN HR STS  DEG CON   VER   MINOR MINOR MINOR MINOR  GPA                                     
+
+ 5529-4920 DIPONIO                   ALVINA          D     0  8  0   BST NET   2009A                         1.30
+ 5528-6766 CLARA                     ARCHIE          N     0 12  0   BST NET   2009A                         2.40
+ 5527-1875 HAVLIK                    MERRY           N    40 12  4   BST NET   2009A                         3.87
+ 5592-2159 STEUART                   ED              N     0  8  0   BST NET   2009A                         3.50
+ 5526-0978 COARD                     LEOTA           D    16  8  4   BST NET   2009A                         2.60
+ 5591-6506 GEERS                     LASHAWN         D     0 12  0   BST NET   2009A                         3.80
+ 5529-3636 SWAYZER                   ELLIE           N     0 12  0   BST NET   2009A                         2.90
+ 5591-6198 HENSHALL                  DELOIS          N    16 12  0   BST NET   2009A                         2.30
+ 5591-7384 ROBACK                    KARRIE          N     0 12  0   BST NET   2009A                         2.05
+ 5591-6986 ESTRIDGE III              ALTON           D     4  6  0   BST NET   2009A                         3.25
+ 5528-1052 SEPPALA                   RAFAELA         N    28  8  4   BST NET   2009A                         3.93
+ 5585-0546 PUZO                      LYN             D    32  8  7   BST NET   2009A                         2.95
+ 5591-2760 KUNSHIER                  BENNIE          D     2  8  0   BST NET   2009A                         3.76
+ 5525-5518 GONTERMAN                 GARRY           D    22  8  4   BST NET   2009A                         1.83
+ 5529-3588 CHARTER                   ERLINDA         N     0  8  0   BST NET   2009A                         0.75
+
+ *** TOTALS FOR ALL STUDENTS                                                        DAY           1
+                                                                                    NIGHT         6
