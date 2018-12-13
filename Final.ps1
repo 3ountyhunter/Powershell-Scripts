@@ -21,7 +21,7 @@ $a = $a + "TH{border-width: 1px;padding: 5px;border-style: solid;border-color: b
 $a = $a + "TD{border-width: 1px;padding: 5px;border-style: solid;border-color: black;}"
 $a = $a + "</style>"
 
-$header= get-content students.txt | select-string -casesensitive " UIN "
+$header= get-content students.txt | select -last 1 -skip 39
 
 $header1 = ForEach-Object { ($header -split ' ' | Where-Object { $_ }) -join ',' }
 $z, $b, $c, $d, $e, $f, $g, $h, $i, $j, $k, $l, $m, $n, $o = $header1.split(',')
