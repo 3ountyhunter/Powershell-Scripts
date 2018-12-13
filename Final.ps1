@@ -21,10 +21,16 @@ $a = $a + "TH{border-width: 1px;padding: 5px;border-style: solid;border-color: b
 $a = $a + "TD{border-width: 1px;padding: 5px;border-style: solid;border-color: black;}"
 $a = $a + "</style>"
 
+$header= get-content students.txt | select-string -casesensitive " UIN "
+
+$header1 = ForEach-Object { ($header -split ' ' | Where-Object { $_ }) -join ',' }
+$z, $b, $c, $d, $e, $f, $g, $h, $i, $j, $k, $l, $m, $n, $o = $header1.split(',')
+
+
 $importTxt = Get-Content "$source" | Where-Object { $_ } # Import .txt file, removing blank lines
 $studentData = $importTxt | Where-Object { $_ -match '(\d){4}\-(\d){4}.*' } # Filter for only student data
 $studentDataObj = ($studentData -split "`r`n" | ForEach-Object { ($_ -split ' ' | Where-Object { $_ }) -join ',' }) |
-ConvertFrom-Csv -Header "STUDENT#","LASTNAME","FIRSTNAME","D/N","ERN","HR","STS","DEG","CON","VER","CUM GPA"
+ConvertFrom-Csv -Header $z, $b, $c, $d, $e, $f, $g, $h, $i, $j, $o
 $studentDataObj | convertto-html -head $a -title 'Students' | out-file .\students.htm
 ii .\students.htm
 }
